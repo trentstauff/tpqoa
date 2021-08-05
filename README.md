@@ -27,7 +27,7 @@ Using `pip` in combination with `Github`:
 
 ## Connection
 
-In order to connect to the API, you need to have at least a practice account with Oanda (https://oanda.com/). Once logged in to you account, you can create an API token and can copy your account number. These are expected to be stored in a configuration file, with name `oanda.cfg`, for instance, as follows:
+In order to connect to the API, you need to have at least a practice account with Oanda (https://oanda.com/). Once logged in to your account, you can create an API token and can copy your account number. These are expected to be stored in a configuration file, with name `oanda.cfg`, for instance, as follows:
 
     [oanda]
     account_id = XYZ-ABC-...
